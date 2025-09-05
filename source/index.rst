@@ -17,3 +17,5 @@ documentation for details.
    
    Tutorial 1 10x Visium (DLPFC dataset)
    Tutorial 2 MERFISH
+   Tutorial 3 2D
+   Tutorial 4 3D
