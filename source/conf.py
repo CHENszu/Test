@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Test_1'
-copyright = '2025, cxd'
-author = 'cxd'
+project = 'FlatST_Tutorial'
+copyright = '2025, chenxdszu'
+author = 'chenxdszu'
 release = '1.0.1'
 
 # -- General configuration ---------------------------------------------------
